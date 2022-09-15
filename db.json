@@ -1,0 +1,12 @@
+{
+  "users":[
+    {
+      "name":"Satish",
+      "age":"age",
+      "gender":22,
+      "country":"India",
+      "profession":"student",
+      "id":1
+    }
+  ]
+}
